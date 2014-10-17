@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[moi:home|Door43 (moi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-moi|d43-moi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-moi/archive/master.zip|d43-moi.zip]]
+
+**Recent Changes**
+{{changes>ns = moi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/moi|Ethnologue data]]
+
